@@ -1,0 +1,101 @@
+/**
+ * @name Pink DC
+ * @version 1.0
+ * @description A simple discord theme based on discord's current website.
+ * @source 
+ * @authorId 
+ * @author Akaza
+ * @donate 
+ * @invite 
+**/
+
+.theme-dark {
+    /*textos profile*/
+    --header-primary: #ffaedb;
+    /*respuestas*/
+    --header-secondary: #ffaedb;
+    /*texto normal*/
+    --text-normal: #ffffff;
+    /* Hora */
+    --text-muted: #ffaedb;
+    /*Links*/
+    --text-link: #ffaedb;
+    --text-link-low-saturation: #000000;
+    /*barras señal*/
+    --text-positive: #ff8db9;
+    --text-warning:#ff9d00 ;
+    --text-danger: #ff0000;
+    --interactive-normal: #ffaedb;
+    --interactive-hover: #dcddde;
+    --interactive-active: #fff;
+    /*muted channels*/
+    --interactive-muted: #a7a7a7;
+    /*fondo Chat */
+    --background-primary: #85395c;
+    /*fondo Paneles laterales */
+    --background-secondary: #6e2a4a;
+    /*fondo Controles voz */
+    --background-secondary-alt: #571a36;
+    /*fondo marcos */
+    --background-tertiary: #571a36;
+    /*nuevo mensaje indicador*/
+    --background-accent: #571a36;
+    /*fondo flotantes */
+    --background-floating: #58253d;
+    --background-mobile-primary: #36393f;
+    --background-mobile-secondary: #2f3136;
+    /*mouse pointed*/
+    --background-modifier-hover: #965285;
+    /*mouse clicked*/
+    --background-modifier-active: #be69a9;
+    /*boton amigos*/
+    --background-modifier-selected: #571a36;
+    --background-modifier-accent: #58253d;
+    --info-positive-text: #fff;
+    --info-warning-text: #fff;
+    --info-danger-text: #fff;
+    --info-help-background: #4400ff;
+    --info-help-foreground: #00ff22;
+    --info-help-text: #fff;
+    --status-warning-text: #000000;
+    --scrollbar-thin-thumb: #202225;
+    --scrollbar-thin-track: transparent;
+    --scrollbar-auto-thumb: #be69a9;
+    --scrollbar-auto-track: #4e0e29;
+    --scrollbar-auto-scrollbar-color-thumb: #202225;
+    --scrollbar-auto-scrollbar-color-track: #2f3136;
+    --elevation-stroke: 0 0 0 1px rgba(4,4,5,0.15);
+    --elevation-low: 0 1px 0 rgba(4,4,5,0.2),0 1.5px 0 rgba(6,6,7,0.05),0 2px 0 rgba(4,4,5,0.05);
+    --elevation-medium: 0 4px 4px rgba(0,0,0,0.16);
+    --elevation-high: 0 8px 16px rgba(0,0,0,0.24);
+    --logo-primary: #fff;
+    /*fondo checks*/
+    --control-brand-foreground: #be69a9;
+    --control-brand-foreground-new: #000000;
+    /*fondo mencion*/
+    --background-mentioned: #682242;
+    /*fondo mencion mouse*/
+    --background-mentioned-hover: #0000003f;
+    /*fondo mensaje mouse*/
+    --background-message-hover: #00000023;
+    /*color cananes*/
+    --channels-default: #ffaedb;
+    --guild-header-text-shadow: 0 10px 10px rgba(0,0,0,0.4);
+    /*Fondo entrada texto*/
+    --channeltextarea-background: #571a36;
+    --activity-card-background: #202225;
+    --textbox-markdown-syntax: #8e9297;
+    --deprecated-card-bg: rgba(32,34,37,0.6);
+    --deprecated-card-editable-bg: rgba(32,34,37,0.3);
+    --deprecated-store-bg: #36393f;
+    --deprecated-quickswitcher-input-background: #72767d;
+    --deprecated-quickswitcher-input-placeholder: hsla(0,0%,100%,0.3);
+    --deprecated-text-input-bg: rgba(0,0,0,0.1);
+    --deprecated-text-input-border: rgba(0,0,0,0.3);
+    --deprecated-text-input-border-hover: #040405;
+    --deprecated-text-input-border-disabled: #202225;
+    --deprecated-text-input-prefix: #dcddde;
+    /*fondo no leidos*/
+    --brand-experiment:#571a36;
+    
+}
